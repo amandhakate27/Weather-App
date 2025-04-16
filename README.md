@@ -20,25 +20,6 @@
 - OpenWeatherMap API
 - Unsplash
 
----
-
-## 🚀 Files Hierarchie
-
-weather-vibes/
-├── public/
-│ └── index.html
-├── src/
-│ ├── App.jsx
-│ ├── main.jsx
-│ ├── WeatherApp.jsx
-│ ├── SearchBox.jsx
-│ ├── InfoBox.jsx
-│ ├── SearchBox.css
-│ └── InfoBox.css
-├── .gitignore
-├── package.json
-├── README.md
-└── vite.config.js (if using Vite)
 
 ➡️ Replace the API key in `SearchBox.jsx` with your OpenWeatherMap key.
 
